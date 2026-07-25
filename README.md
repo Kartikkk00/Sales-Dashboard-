@@ -119,5 +119,4 @@ Monthly profit trends help businesses plan inventory, marketing campaigns, and s
 Transforms raw sales data into actionable insights, enabling faster and more informed business decisions.
 
 6. Dashboard Preview
-Include your dashboard screenshot here.
 [images/Sales Dashboard.png](https://github.com/Kar098765/Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
